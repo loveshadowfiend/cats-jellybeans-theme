@@ -1,0 +1,26 @@
+imcs.dvfu.ru##.header.iface > tbody > tr
+imcs.dvfu.ru##.footer2
+imcs.dvfu.ru##tr.even > td > .leaderboard.icon
+imcs.dvfu.ru##tr.odd > td > .leaderboard.icon
+imcs.dvfu.ru##tr.even > td > .view.icon
+imcs.dvfu.ru##tr.odd > td > .view.icon
+imcs.dvfu.ru##.nobr.problem_radio > label
+imcs.dvfu.ru##.problem_submit
+imcs.dvfu.ru###refreshable_content > table > tbody > tr > td:nth-of-type(2)
+imcs.dvfu.ru###refreshable_content > table > tbody > tr > td:nth-of-type(2)
+imcs.dvfu.ru###refreshable_content > table > tbody > tr > td:nth-of-type(2)
+imcs.dvfu.ru##hr
+imcs.dvfu.ru##.timing
+imcs.dvfu.ru##.editor_only.toolbar_item.file
+imcs.dvfu.ru##.current.n_button
+imcs.dvfu.ru##.problem_menu_click.problem_menu_trigger.jsonly
+imcs.dvfu.ru##.problem_menu_hovered.toolbar_item.problem_menu_trigger
+imcs.dvfu.ru##button.toolbar_item.button:nth-of-type(2)
+imcs.dvfu.ru##.nobr > .bordered
+imcs.dvfu.ru###do_search
+imcs.dvfu.ru##.listview_dropper
+imcs.dvfu.ru##svg
+imcs.dvfu.ru##.toolbar_item.problem_menu_trigger
+imcs.dvfu.ru##.ace_print-margin
+imcs.dvfu.ru##.toolbar_item.file
+

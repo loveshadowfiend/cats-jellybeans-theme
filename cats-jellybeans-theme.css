@@ -1,0 +1,235 @@
+* {
+    border-color: #151515 !important;
+    color: #e8e8d3 !important;
+    font-family: Jetbrains Mono !important;
+    font-size: 14px !important;
+    background-image: none !important;
+}
+
+input {
+    background-color: #202020 !important;
+}
+
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0 30px #202020 inset !important;
+}
+
+input:-webkit-autofill {
+    -webkit-text-fill-color: #e8e8d3 !important;
+}
+
+td.logo {
+    display: none;
+}
+
+.ace_print-margin {
+    display: none;
+}
+
+body {
+    background-color: #151515;
+}
+
+.bordered input[type=checkbox]::after {
+    border: 1px solid #303030;
+    background-color: #151515 !important;
+}
+
+table.header {
+    background-color: #151515;
+}
+
+table.header td.elapsed p a:hover {
+    background-color: #151515;
+}
+
+.main_menu {
+    background-color: #202020;
+    margin: 0;
+}
+
+.sub_menu {
+    background-color: #202020;
+}
+
+div.pages a:hover {
+    background-color: #151515;
+}
+
+div.search_hint table td:hover {
+    background-color: #151515;
+}
+
+div.search_hint table td ul {
+    background-color: #151515;
+}
+
+div.search_hint table td ul li:hover {
+    background-color: #151515;
+}
+
+.top a:hover {
+    background-color: #151515;
+}
+
+.sub_menu a:hover, .sub_menu a.new:hover, a.sub_menu_selected:hover {
+    background-color: #151515;
+}
+
+a.sub_menu_selected, a.sub_menu_selected:visited {
+    background-color: #151515;
+}
+
+tr.footer, tr.footer td {
+    background-color: #151515;
+}
+
+tr.footer2, tr.footer2 td, tr.footer2 td a {
+    background-color: #151515;
+}
+
+select, option {
+    background-color: #151515;
+}
+
+.send_message {
+    background-color: #151515;
+}
+
+.button {
+    background-color: #151515;
+}
+
+.button2 {
+    background-color: #151515;
+}
+
+.run_details_UH {
+    background-color: #b85335;
+}
+
+.run_details_AW {
+    background-color: #ffb964;
+}
+
+.run_details_OK {
+    background-color: #799d6a;
+}
+
+.run_details_WA {
+    background-color: #b85335;
+}
+
+.run_details_PE {
+    background-color: #b85335;
+}
+
+.run_details_TL {
+    background-color: #b85335;
+}
+
+.run_details_RE {
+    background-color: #b85335;
+}
+
+.run_details_CE {
+    background-color: #b85335;
+}
+
+.run_details_SV {
+    background-color: #b85335;
+}
+
+.run_details_ML {
+    background-color: #b85335;
+}
+
+.run_details_IL {
+    background-color: #b85335;
+}
+
+.run_details_MR {
+    background-color: #b85335;
+}
+
+.run_details_WL {
+    background-color: #b85335;
+}
+
+.run_details_LI {
+    background-color: #b85335;
+}
+
+table.highlight>tbody>tr:hover {
+    background-color: #454545;
+}
+
+tr.odd {
+    background-color: #202020;
+}
+
+tr.even {
+    background-color: #151515;
+}
+
+table.highlight tr.col_defs:hover, tr.col_defs {
+    background-color: #151515;
+}
+
+table.highlight tr.col_defs:hover, tr.col_defs {
+    background-color: #151515;
+}
+
+a.contest_selected {
+    background-color: #151515;
+}
+
+.diff_only_a {
+    background-color: #151515
+}
+
+.diff_only_b {
+    background-color: #151515
+}
+
+table.compare_tests td.z {
+    background-color: #151515;
+}
+
+.resizable {
+    background-color: #151515 !important;
+}
+
+.problem_menu_trigger {
+    background-color: #151515;
+}
+
+.keywords_cell a:hover {
+    background-color: #151515;
+}
+
+.ace_gutter {
+    background-color: #202020 !important;
+}
+
+.ace_gutter-active-line {
+    background-color: #303030 !important;
+}
+
+.ace-chrome {
+    background-color: #202020 !important;
+}
+
+.ace_cursor {
+    width: 3px !important;
+    background-color: #e8e8d3 !important;
+}
+
+.console .verdict table td:last-child div {
+    color: #151515 !important;
+    background-color: #e8e8d3 !important;
+}
+
+select {
+    background-color: #202020 !important;
+}
